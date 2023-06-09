@@ -180,7 +180,6 @@ public class Basics {
         for (int i = 1; i < arr.length; i+= 2){
             current_sum += arr[i];
         }
-
         return current_sum;
     }
 
